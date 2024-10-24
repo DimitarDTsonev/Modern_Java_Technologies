@@ -1,3 +1,5 @@
+package Week1;
+
 public class CourseScheduler {
 
     public static int maxNonOverlappingCourses(int[][] courses) {

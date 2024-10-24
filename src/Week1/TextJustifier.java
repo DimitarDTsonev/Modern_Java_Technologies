@@ -1,3 +1,5 @@
+package Week1;
+
 public class TextJustifier {
     public static String[] justifyText(String[] words, int maxWidth) {
         String[] result = new String[words.length];
